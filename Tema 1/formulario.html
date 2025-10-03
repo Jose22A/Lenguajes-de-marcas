@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Formulario</title>
+</head>
+<body>
+<form>
+    <p>Nombre: <input type="text" name="nombre" size="40"></p>
+    <p>Fecha: <input type="date" name="fecha"></p>
+    <p>Número de personas en el grupo: <input type="number" name="numPersonas" min="1"></p>
+    <p>Horario preferido: <select name="horario">
+        <option value=""></option>
+        <option value="manana">Mañana</option>
+        <option value="mediodia">Mediodia</option>
+        <option value="tarde">Tarde</option>
+    </select></p>
+    <p>Fecha prevista: <input type="date" name="fechaPrev"></p>
+    <p>¿Necesita guia?
+        <input type="radio" name="guia" value="si"> Si
+        <input type="radio" name="guia" value="no"> No
+    </p>
+    <p>Correo electronico: <input type="text" name="correo" size="60"></p>
+    <p>
+        <input type="submit" value="Enviar">
+        <input type="reset">
+    </p>
+</form>
+</body>
+</html>
