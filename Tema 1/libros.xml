@@ -1,0 +1,20 @@
+<libros>
+<libro>
+<titulo>El diario de Greg</titulo>
+<autor>Jeff Kinney</autor>
+<anno>2007</anno>
+<genero>Humor</genero>
+</libro>
+<libro>
+<titulo>El Señor de los Anillos</titulo>
+<autor>J. R. R. Tolkien</autor>
+<anno>1954</anno>
+<genero>Novela</genero>
+</libro>
+<libro>
+<titulo>Harry Potter y la piedra filosofal</titulo>
+<autor>J. K. Rowling</autor>
+<anno>1997</anno>
+<genero>Novela</genero>
+</libro>
+</libros>
